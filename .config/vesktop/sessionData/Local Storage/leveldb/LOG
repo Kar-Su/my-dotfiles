@@ -1,0 +1,6 @@
+2025/05/15-21:20:17.047 817 Reusing MANIFEST /home/kar/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/05/15-21:20:17.050 817 Recovering log #7
+2025/05/15-21:20:17.050 817 Reusing old log /home/kar/.config/vesktop/sessionData/Local Storage/leveldb/000007.log 
+2025/05/15-21:22:34.663 817 Level-0 table #11: started
+2025/05/15-21:22:34.695 817 Level-0 table #11: 36376 bytes OK
+2025/05/15-21:22:34.700 817 Delete type=0 #7
