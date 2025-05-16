@@ -1,5 +1,4 @@
 return {
-
   {
     "stevearc/conform.nvim",
     -- event = 'BufWritePre', -- uncomment for format on save
@@ -117,5 +116,12 @@ return {
       { ",v", "<cmd>VenvSelect<cr>" },
     },
     opts = require "configs.venv-selector",
+  },
+
+
+  {
+    "brianhuster/autosave.nvim",
+    event = "InsertEnter",
+    opts = {}     -- Configuration here
   },
 }

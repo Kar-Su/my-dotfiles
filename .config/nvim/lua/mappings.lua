@@ -33,3 +33,4 @@ map({ "n", "t" }, "<A-i>", function()
     },
   }
 end, { desc = "Toggle floating terminal" })
+
