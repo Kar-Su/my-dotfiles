@@ -4,7 +4,7 @@ require("neocord").setup {
   logo = "https://avatars.githubusercontent.com/u/185597280?s=96&v=4", -- "auto" or url
   logo_tooltip = "nvim", -- nil or string
   main_image = "logo", -- "language" or "logo"
-  client_id = "123", -- Use your own Discord application client id (not recommended)
+  client_id = "1349585069437882410", -- Use your own Discord application client id (not recommended)
   log_level = nil, -- Log messages at or above this level (one of the following: "debug", "info", "warn", "error")
   debounce_timeout = 10, -- Number of seconds to debounce events (or calls to `:lua package.loaded.presence:update(<filename>, true)`)
   blacklist = {}, -- A list of strings or Lua patterns that disable Rich Presence if the current file name, path, or workspace matches
